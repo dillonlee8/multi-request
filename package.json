@@ -1,0 +1,13 @@
+{
+  "name": "multi-request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "msw": "^0.20.1",
+    "jest": "^26.2.2"
+  }
+}
